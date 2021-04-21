@@ -1,6 +1,8 @@
 # Color
 
-## This app was created with the help of a tutorial.
+## This app was created with the help of a tutorial. I followed along step by step to help me strengthen my knowledge of code.
+
+### Thank you to briancodex
 
 ### HTML, CSS, and JS were used
 
